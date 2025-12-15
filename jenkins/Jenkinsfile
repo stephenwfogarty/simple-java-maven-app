@@ -25,6 +25,6 @@ pipeline {
             steps {
                 echo 'Job is done and done'
             }
-        
+        }
     }
 }
